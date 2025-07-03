@@ -17,5 +17,6 @@ server:
   port: 7777
 
 user:
-  role: beaconfire
+  role: anita
+
 
