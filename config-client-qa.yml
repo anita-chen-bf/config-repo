@@ -7,9 +7,15 @@ spring:
     username: guest
     password: guest
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
 server:
   port: 7777
 
 user:
-  role: beaconfire
+  role: anita
 
