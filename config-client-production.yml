@@ -3,4 +3,4 @@ spring:
     name: config-client
 
 user:
-  role: User-Bus
+  role: User-BeaconFire
